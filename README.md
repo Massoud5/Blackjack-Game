@@ -16,7 +16,7 @@ Languages used:
 
 what I learned and used:
 
-Comparison operators
+- Comparison operators
 
 - Arrays
 
