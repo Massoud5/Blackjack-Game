@@ -4,7 +4,7 @@ Blackjack Game
 
 Live demo link :
 
-https://massoud5.github.io/Blackjack-Game/
+https://massoud5.github.io/Blackjack-Game/doc.html
 
 Languages used:
 
